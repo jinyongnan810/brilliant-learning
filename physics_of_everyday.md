@@ -8,3 +8,11 @@
 - ΔP=ρgΔh (which means 1m deeper the water, 10kPa pressure increases)
 - The pressure of the tap water at home, depends only on the height difference. Which means being far away from the water tower does not decrease the pressure.
 - https://www.youtube.com/watch?v=6zeHWVUiXoc
+
+# Refrigerators
+- Compressor pump: compressing gas makes the gas warmer.
+  - Because adding pressure increases gas molecules's energy.
+- Expansion valve: expanding gas makes the gas colder.
+  - When gas expanding, it energy decreases for pushing things away.
+- Radiator: balancing the temperature with surrounding environment.
+- https://www.youtube.com/watch?v=7NwxMyqUyJw
