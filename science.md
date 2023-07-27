@@ -20,4 +20,5 @@
 
 # Pressure
 - Unlike forces, pressures does not point in any direction.
-- 
+- Water maintain volume as it flows. Which means water flowing from thick pipe to narrow pipe will speed up.
+- Water slows down when going to higher pressure, and speed up going to lower pressure. Therefore water in the thick pipe has higher pressure than the narrow pipe.
