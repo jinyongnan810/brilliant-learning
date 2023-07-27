@@ -17,3 +17,7 @@
   - e.g. When a ring with a gap is heated, the shape is kept, so the gap will increase with the rest of the shape.
 - Coefficient of thermal expansion describes how much a substance expands when its temperature increase.
   - A glass jar with an wooden lid will be easily opened when cooled. because CoTE of glass is larger than wood. Meaning glass will shrink and expand more when temperature changes.
+
+# Pressure
+- Unlike forces, pressures does not point in any direction.
+- 
