@@ -22,3 +22,7 @@
 - Unlike forces, pressures does not point in any direction.
 - Water maintain volume as it flows. Which means water flowing from thick pipe to narrow pipe will speed up.
 - Water slows down when going to higher pressure, and speed up going to lower pressure. Therefore water in the thick pipe has higher pressure than the narrow pipe.
+
+# Buoyancy
+- Buoyancy came from pressure difference between depth of water.
+- When drawing any imaginary boundary in a pool of water, the block of water's force is balanced. Which means is gravity equals is buoyancy. Which means the easiest way to calculate buoyancy is to check the amount of space the object takes and calculate its mess.
