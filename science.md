@@ -26,3 +26,6 @@
 # Buoyancy
 - Buoyancy came from pressure difference between depth of water.
 - When drawing any imaginary boundary in a pool of water, the block of water's force is balanced. Which means is gravity equals is buoyancy. Which means the easiest way to calculate buoyancy is to check the amount of space the object takes and calculate its mess.
+
+# Light
+- Fermat's principle: The path light takes between two points is the path that takes the least time.
