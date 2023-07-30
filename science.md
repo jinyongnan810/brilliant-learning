@@ -29,3 +29,9 @@
 
 # Light
 - Fermat's principle: The path light takes between two points is the path that takes the least time.
+- Our eyes can’t see the polarization of light — whether the light wave is vertical, horizontal, or oscillating in some other direction, it looks the same to us.
+- Any polarization of light can be treat as a superposition of some other lights with different polarizations.
+
+# Circuits
+- Voltage drop is in proportional to the resistance of the components in line.
+- When there are more paths for the current to flow, the resistance goes down and the total current goes up.
