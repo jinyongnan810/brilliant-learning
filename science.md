@@ -35,3 +35,7 @@
 # Circuits
 - Voltage drop is in proportional to the resistance of the components in line.
 - When there are more paths for the current to flow, the resistance goes down and the total current goes up.
+
+# Relativity and Simultaneity
+- Sound speed does not related to the speed of its source. When a car at 100m/s hear a sound from the behind, the sound will seem to travel at 330-100=230m/s to the people in car.
+- The speed of light is the same for all observers. Some events may seam happened simultaneously to some observer, but different in any degrees to some other observers.
