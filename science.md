@@ -39,3 +39,5 @@
 # Relativity and Simultaneity
 - Sound speed does not related to the speed of its source. When a car at 100m/s hear a sound from the behind, the sound will seem to travel at 330-100=230m/s to the people in car.
 - The speed of light is the same for all observers. Some events may seam happened simultaneously to some observer, but different in any degrees to some other observers.
+- On a Space-Time diagram, an event at any point has its light corn. This event cannot be influence another event outside of the corn. Because their distance is further than the light traveling according time.
+  - If an event's light corn includes another event, then all the observers will agree on the order these twe events.
