@@ -9,6 +9,7 @@
 
 # Chemical Reactions
 - Reactions starts with reactant and end with products.
+- When the speed of forward and reverse reactions are equal, then the system has attained chemical equilibrium.
 
 # Important Reactions
 - photosynthesis: 6CO2 + 6H2O = C6H12O6 + 6O2
