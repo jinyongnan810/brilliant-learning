@@ -5,6 +5,8 @@
 - Cl: chlorine
 - combustion: some substance reacts with oxygen and produce CO2 & H2O
 - octane: C8H18 component of gasoline. Also implies anything that can produce great power
+- chemical volcano: NaHCO3(baking soda) + CH3CO2H(vinegar) = CH3CO2Na + CO2 + H2O
+- 
 
 
 # Chemical Reactions
