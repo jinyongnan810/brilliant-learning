@@ -5,7 +5,9 @@
 - Cl: chlorine
 - combustion: some substance reacts with oxygen and produce CO2 & H2O
 - octane: C8H18 component of gasoline. Also implies anything that can produce great power
-- chemical volcano: NaHCO3(baking soda) + CH3CO2H(vinegar) = CH3CO2Na + CO2 + H2O
+- chemical volcano: NaHCO3(baking soda) + CH3CO2H(vinegar, aka acetic acid) = CH3CO2Na + CO2 + H2O
+- acid dissociation constant(Ka): equilibrium constants Keq for acids. An acid's Ka >= 10^-2 is considered strong.(HCl: 10^8, HBr: 10^9)
+  - pKa: -logKa (HCl: -8, vinegar: 5)
 - 
 
 
