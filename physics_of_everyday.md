@@ -16,3 +16,11 @@
   - When gas expanding, it energy decreases for pushing things away.
 - Radiator: balancing the temperature with surrounding environment.
 - https://www.youtube.com/watch?v=7NwxMyqUyJw
+
+# Throwing Axe
+- angular velocity w = v / l
+- w does not change before and after throwing
+- 1 rotation takes T = 2Pi / w
+- 1 rotation makes distance D = T * v = (2Pi / w) * (w * l) = 2Pi * l
+- Which means however we throw an axe, the distance it travels one loop is only depended on the length(arm+axe).
+- https://www.youtube.com/watch?v=NlIKq0XAlxg
