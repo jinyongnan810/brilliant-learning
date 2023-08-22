@@ -24,3 +24,7 @@
 - 1 rotation makes distance D = T * v = (2Pi / w) * (w * l) = 2Pi * l
 - Which means however we throw an axe, the distance it travels one loop is only depended on the length(arm+axe).
 - https://www.youtube.com/watch?v=NlIKq0XAlxg
+
+# BMX
+- Torque: twisting force on an object about a pivot point
+- T = F * R
