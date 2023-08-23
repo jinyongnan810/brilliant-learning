@@ -27,4 +27,13 @@
 
 # BMX
 - Torque: twisting force on an object about a pivot point
-- T = F * R
+  - T = F * R
+- Angular momentum: measure of how much an object is spinning
+  - L = m * v * R
+  - L won't be changed without outside influence.
+  - During spinning, if R is reduced, v will be increased.
+  - Flipping bikes
+    - forwards: hit the brake.
+      - L in the wheels will transform to bike to help it spin forwards.
+    - backwards: hit the gas.
+      - L in the wheels go up, making an force to make it spin backwards.(not fully understand)
