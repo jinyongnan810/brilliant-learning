@@ -37,3 +37,9 @@
       - L in the wheels will transform to bike to help it spin forwards.
     - backwards: hit the gas.
       - L in the wheels go up, making an force to make it spin backwards.(not fully understand)
+
+# Skiing
+- Net Force: the accumulation of all forces.
+- normal force: the right angle force.
+- Air Drag: resistance of the air.
+  - Fair = 1/2 * C * A * v^2 (C is coefficient that calculated in that particular air, A is area)
