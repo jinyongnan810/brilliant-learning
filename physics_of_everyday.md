@@ -43,3 +43,6 @@
 - normal force: the right angle force.
 - Air Drag: resistance of the air.
   - Fair = 1/2 * C * A * v^2 (C is coefficient that calculated in that particular air, A is area)
+
+# Gymnastics
+- kinetic energy K: moving energy, calculated by K = 0.5 * m * v^2
