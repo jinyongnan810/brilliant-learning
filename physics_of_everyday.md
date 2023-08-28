@@ -46,3 +46,7 @@
 
 # Gymnastics
 - kinetic energy K: moving energy, calculated by K = 0.5 * m * v^2
+
+# Baseball
+- momentum: p = m * v
+- F(average) = delta p / delta t
