@@ -50,3 +50,10 @@
 # Baseball
 - momentum: p = m * v
 - F(average) = delta p / delta t
+
+# Fossil fuels
+- C6H12O6 -> 1 million years -> 3CH4 + 3CO2
+- 1L gasoline makes 4*10^7 J energy.
+  - 1J = 1N * 1m
+  - 1Kwh = 3.6 * 10^6 J -> 1ws = 1J
+  - 1calorie = 4.184J (1calorie = energy needed to raise 1g of water raise 1C) 
