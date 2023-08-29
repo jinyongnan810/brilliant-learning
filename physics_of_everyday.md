@@ -57,3 +57,5 @@
   - 1J = 1N * 1m
   - 1Kwh = 3.6 * 10^6 J -> 1ws = 1J
   - 1calorie = 4.184J (1calorie = energy needed to raise 1g of water raise 1C) 
+- Solar energy arrive at earth's surface is about 1360J/m^2
+  - 1m^2 light fully absorbed for 1 hour gets about 1.36Kwh
