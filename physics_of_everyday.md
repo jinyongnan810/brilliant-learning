@@ -59,3 +59,10 @@
   - 1calorie = 4.184J (1calorie = energy needed to raise 1g of water raise 1C) 
 - Solar energy arrive at earth's surface is about 1360J/m^2
   - 1m^2 light fully absorbed for 1 hour gets about 1.36Kwh
+
+# Mammalian Caloric Intake
+- Blackbody radiation: as long as an object is not at 0 temperature, it will always radiate heat from its surface in the form of infrared photons.
+  - rate of BR is proportional to SA * T^4(SA: surface area, T: temperature)
+- Mammals' T is almost the same. BR ~ SA ~ V^(2/3) ~ M^(2/3)
+  - if loss of mass due to BR is the about the same as the intake mass. 
+  - then fraction of intake mass to the body mass is about M^(2/3) / M = M^(-1/3)
