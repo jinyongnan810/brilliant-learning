@@ -69,4 +69,13 @@
 
 # Nuclear Energy
 - Atom's mass A = Z(number of protons) + N(number of neutrons)
-- The constitution of a nucleus: $X_Z^A$
+- The constitution of a nucleus of X is represented by: $_Z^AX$
+- In the nucleus, while protons has electrostatic repulsion to push them apart, the Strong Nuclear Force that attracts all the nucleons(both protons and neutrons) keeps the nucleus intact.
+  - Nuclear force is short-ranged and acts between pairs of neighboring nucleons, not across the nucleus.
+- Binding energy: The force needed to break apart an nucleus.
+- Helium-4 atom's mass is less than the mass of 2 protons and 2 neutrons.
+  - Which means some of the mass converts to energy and released when forming a stable nucleus.
+  - The difference in mass is called mass defect
+  - Binding energy is equal to the energy of mass defect.
+  - Nucleus's stability is related to $(binding energy) \over (Z+N)$
+- Fusion sample: $_1^2H + _1^3H = _2^4H + _0^1n$ ($_1^2H$: deuterium, $_1^3H$: tritium)
