@@ -79,3 +79,6 @@
   - Binding energy is equal to the energy of mass defect.
   - Nucleus's stability is related to $(binding energy) \over (Z+N)$
 - Fusion sample: $_1^2H + _1^3H = _2^4H + _0^1n$ ($_1^2H$: deuterium, $_1^3H$: tritium)
+- Fission sample: $_{92}^{235}U +_0^1n \to _{92}^{236}U(unstable) \to _{56}^{141}Ba + _{36}^{92}Kr + 3_0^1n + Q$
+  - neutrons of the product may be used to trigger another reaction
+  - controlled fission uses tools such as cadmium rod to absorb excess neutrons.
