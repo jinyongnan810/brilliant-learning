@@ -66,3 +66,7 @@
 - Mammals' T is almost the same. BR ~ SA ~ V^(2/3) ~ M^(2/3)
   - if loss of mass due to BR is the about the same as the intake mass. 
   - then fraction of intake mass to the body mass is about M^(2/3) / M = M^(-1/3)
+
+# Nuclear Energy
+- Atom's mass A = Z(number of protons) + N(number of neutrons)
+- The constitution of a nucleus: $X_Z^A$
