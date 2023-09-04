@@ -84,3 +84,7 @@
 - Fission sample: $_{92}^{235}U +_0^1n \to _{92}^{236}U(unstable) \to _{56}^{141}Ba + _{36}^{92}Kr + 3_0^1n + Q$
   - neutrons of the product may be used to trigger another reaction
   - controlled fission uses tools such as cadmium rod to absorb excess neutrons.
+
+# Greenhouse Effect
+- The atmosphere on earth is transparent for visible lights, while having great efficiency to absorb infrared radiation(IR, low frequency)
+- The earth surface absorbs visible lights and emits IR in the same time. Green house gases(such as $CO_2$, $NH_4$, $H_2O$, $O_3$) has high efficiency absorbing IR, which makes energy spend more time leaving earth.
