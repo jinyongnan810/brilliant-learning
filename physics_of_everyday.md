@@ -72,6 +72,8 @@
 - The constitution of a nucleus of X is represented by: $_Z^AX$
 - In the nucleus, while protons has electrostatic repulsion to push them apart, the Strong Nuclear Force that attracts all the nucleons(both protons and neutrons) keeps the nucleus intact.
   - Nuclear force is short-ranged and acts between pairs of neighboring nucleons, not across the nucleus.
+  - Binding energy per nucleon increases with mass, because each nucleon will be surround by more nucleons. But after a certain mass(56 Fe), biding energy will decrease, for nuclear force only works on the neighbors and electrostatic repulsion works on each and every protons.
+  - smaller nucleus is suitable for fusion, and larger nucleus is for fission.
 - Binding energy: The force needed to break apart an nucleus.
 - Helium-4 atom's mass is less than the mass of 2 protons and 2 neutrons.
   - Which means some of the mass converts to energy and released when forming a stable nucleus.
