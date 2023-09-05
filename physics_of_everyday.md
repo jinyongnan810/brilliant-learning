@@ -88,3 +88,12 @@
 # Greenhouse Effect
 - The atmosphere on earth is transparent for visible lights, while having great efficiency to absorb infrared radiation(IR, low frequency)
 - The earth surface absorbs visible lights and emits IR in the same time. Green house gases(such as $CO_2$, $NH_4$, $H_2O$, $O_3$) has high efficiency absorbing IR, which makes energy spend more time leaving earth.
+
+# Weather Systems
+- Hot air usually has lower pressure due to 
+  - lower density
+  - tend to rise up and leave an void below
+- Moist air usually has lower pressure because $H_2O$ has lower mass than $O_2$ and $N_2$
+- Heat Capacity: how much heat it take to rise the temperature of a substance.
+  - C = $\Delta Q \over \Delta T $ (Q is the heat added, T is temperature difference)
+  - $C_{water}$ > $C_{soil}$
