@@ -97,3 +97,4 @@
 - Heat Capacity: how much heat it take to rise the temperature of a substance.
   - C = $\Delta Q \over \Delta T $ (Q is the heat added, T is temperature difference)
   - $C_{water}$ > $C_{soil}$
+- Coriolis effect: https://www.youtube.com/watch?v=HIyBpi7B-dE
