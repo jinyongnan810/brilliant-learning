@@ -98,3 +98,6 @@
   - C = $\Delta Q \over \Delta T $ (Q is the heat added, T is temperature difference)
   - $C_{water}$ > $C_{soil}$
 - Coriolis effect: https://www.youtube.com/watch?v=HIyBpi7B-dE
+
+# Tides
+- Moon and sun causes tide on both sides of the earth. https://www.youtube.com/watch?v=CVNqxh_zmOM
