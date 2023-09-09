@@ -101,3 +101,12 @@
 
 # Tides
 - Moon and sun causes tide on both sides of the earth. https://www.youtube.com/watch?v=CVNqxh_zmOM
+
+# Fluoridated water
+- Standard International Units
+<img width="548" alt="Standard International Units" src="https://github.com/jinyongnan810/brilliant-learning/assets/29720903/7887ac1f-ef39-4ec3-89c1-7cefaa857d2e">
+
+- Some country add fluoride to tap water system to improve dental health.（Recommended dose: 0.7～1.0mg/L(0.7～1.0ppm), JP: 0.8ppm）
+- Toothpaste's fluoride is about 1500ppm(1.5mg/ml).
+  - Lethal dose for a 65 kg person is 1.5L toothpaste(32mg/Kg).
+  - It may become harmful to take 10mg perday. So better not to swallow toothpaste for its taste.
