@@ -110,3 +110,8 @@
 - Toothpaste's fluoride is about 1500ppm(1.5mg/ml).
   - Lethal dose for a 65 kg person is 1.5L toothpaste(32mg/Kg).
   - It may become harmful to take 10mg perday. So better not to swallow toothpaste for its taste.
+
+# Bridges
+## truss bridge
+<img width="387" alt="スクリーンショット 2023-09-13 19 08 26" src="https://github.com/jinyongnan810/brilliant-learning/assets/29720903/dfcee34e-2cd5-497c-9728-995a1289eb40">
+
