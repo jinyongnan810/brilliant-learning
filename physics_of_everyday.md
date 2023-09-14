@@ -113,5 +113,6 @@
 
 # Bridges
 ## truss bridge
-<img width="387" alt="スクリーンショット 2023-09-13 19 08 26" src="https://github.com/jinyongnan810/brilliant-learning/assets/29720903/dfcee34e-2cd5-497c-9728-995a1289eb40">
+<img width="544" alt="スクリーンショット 2023-09-14 21 52 52" src="https://github.com/jinyongnan810/brilliant-learning/assets/29720903/4206203f-559a-4025-a832-f2b7c7085392">
+
 
