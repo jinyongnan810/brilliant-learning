@@ -123,4 +123,8 @@
 <img width="370" alt="スクリーンショット 2023-09-14 22 09 23" src="https://github.com/jinyongnan810/brilliant-learning/assets/29720903/56716337-4320-4f3b-a2be-3eeeda968da9">
 
 
-
+# Skyscrapers
+- A pool on the top of skyscrapers will help decrease oscillations.
+  - A tank of water has net force of 0 to the surrounding walls when being still. 
+  - If a force push the tank to the right, the water remains still and accumulate on the left tank wall, causing a leftward force.
+  - In short, water opposes the motion of its container.
