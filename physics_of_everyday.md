@@ -115,4 +115,12 @@
 ## truss bridge
 <img width="544" alt="スクリーンショット 2023-09-14 21 52 52" src="https://github.com/jinyongnan810/brilliant-learning/assets/29720903/4206203f-559a-4025-a832-f2b7c7085392">
 
+## arch bridge
+<img width="227" alt="スクリーンショット 2023-09-14 22 12 29" src="https://github.com/jinyongnan810/brilliant-learning/assets/29720903/46a8f77e-a0d8-4484-879f-97358eddd30c">
+
+
+## suspension bridge
+<img width="370" alt="スクリーンショット 2023-09-14 22 09 23" src="https://github.com/jinyongnan810/brilliant-learning/assets/29720903/56716337-4320-4f3b-a2be-3eeeda968da9">
+
+
 
