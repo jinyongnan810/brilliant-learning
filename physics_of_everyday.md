@@ -128,3 +128,9 @@
   - A tank of water has net force of 0 to the surrounding walls when being still. 
   - If a force push the tank to the right, the water remains still and accumulate on the left tank wall, causing a leftward force.
   - In short, water opposes the motion of its container.
+
+# Bicycle tracks
+- Back tire always points to front tire.
+  - Due to bicycles rigid frame.
+  - Therefore back tire's tangent line always points to the front tire.
+- The path of the back tire follows that of the front, but with diminished amplitude.
