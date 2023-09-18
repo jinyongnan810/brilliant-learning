@@ -134,3 +134,16 @@
   - Due to bicycles rigid frame.
   - Therefore back tire's tangent line always points to the front tire.
 - The path of the back tire follows that of the front, but with diminished amplitude.
+
+# Auto Collisions
+- Energy transferred during brake Q = uws
+  - u = brake coefficient
+  - w = weight = mg
+  - s = braking distance
+  - this energy is transferred to heat
+- Initial kinetic energy K = $0.5mv^2$
+- Q = K(when no crush)
+- $v = \sqrt{2ugs} $
+  - which means initial speed v only depends on u and s
+- If there is a crush, apart from heat transfer, the kinetic energy are also transferred to deformation energy.
+  - calculated by crush depth and force need to crush certain depth.
